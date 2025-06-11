@@ -1,27 +1,22 @@
-To-Do List App
-A simple, user-friendly to-do list application built with React to help users keep track of their tasks efficiently. The app allows users to add, delete, edit, and mark tasks as complete.
+# 📝 To-Do List App
 
-Features
-Add Tasks: Easily add tasks to the list.
-Edit Tasks: Modify tasks to update details.
-Delete Tasks: Remove tasks from the list.
-Mark Tasks as Completed: Strikethrough completed tasks to track progress.
-Responsive UI: The app is designed to work on both desktop and mobile devices.
+A simple and responsive To-Do List application that helps users manage their daily tasks and chores. Users can **add**, **edit**, and **delete** tasks seamlessly.
 
-Technologies Used
-Frontend: React
-State Management: React's useState & useEffect hooks
-Styling: CSS (Custom styles for a modern UI)
+## 🔧 Features
 
+- ✅ Add new tasks
+- ✏️ Edit existing tasks
+- ❌ Delete tasks
+- 💾 Persistent storage using localStorage
+- 📱 Responsive and user-friendly interface
 
-Usage
-Add a new task by typing into the input field and clicking the Add button.
-Mark tasks as completed by clicking the task's text.
-Edit a task by clicking the Edit button next to the task.
-Remove a task by clicking the Delete button next to the task.
-Screenshots
-Here, you could include screenshots or gifs of the application in use (e.g., a gif of adding tasks, editing, and deleting).
+## 🛠️ Tech Stack
+
+| Tech         | Use                          |
+|--------------|-------------------------------|
+| HTML/CSS     | Basic structure & styling     |
+| JavaScript   | Core functionality            |
+| React (optional) | Component-based UI         |
+| localStorage | Persistent task saving        |
 
 
-Authors
-Ashmit Rawat - Initial work - Ashmit-A-Rawat
